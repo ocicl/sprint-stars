@@ -1,0 +1,10 @@
+* sprint-stars
+
+Display the stars of a GitHub User
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/z3t0/sprint-stars.git   |
+| commit  | e869a63  |
+| systems | sprint-stars |
+|---------+-------------------------------------------|
+
